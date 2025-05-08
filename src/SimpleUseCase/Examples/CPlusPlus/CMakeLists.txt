@@ -23,4 +23,5 @@ if(CMAKE_CXX_COMPILER)
   add_subdirectory("Standard")#
   add_subdirectory("Boost")#
   add_subdirectory("Qt")#
+  add_subdirectory("GRPC")#
 endif()
