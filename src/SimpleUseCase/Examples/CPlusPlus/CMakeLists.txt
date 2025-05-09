@@ -25,4 +25,5 @@ if(CMAKE_CXX_COMPILER)
   add_subdirectory("Qt")#
   add_subdirectory("GRPC")#
   add_subdirectory("OpenCV")#
+  add_subdirectory("PocoEmailSender")#
 endif()
